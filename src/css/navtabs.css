@@ -1,0 +1,15 @@
+.nav-link{
+    margin-left: 10px;
+    margin-right: 20px;
+    font-size: 38px;
+    color: #636a78
+}
+
+.nav-link.active{
+    font-weight: bold;
+}
+
+.flex-row{
+    display: flex;
+    flex-wrap: wrap;
+}
